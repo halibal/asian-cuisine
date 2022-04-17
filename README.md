@@ -18,7 +18,7 @@
 
 ### Links
 
-- Live Site URL: [Halibal | Asian Cuisine JS Project](https://halibal.github.io/qr-code-project/)
+- Live Site URL: [Halibal | Asian Cuisine JS Project](https://halibal.github.io/asian-cuisine/)
 
 ## Built with
 
@@ -30,3 +30,4 @@
 
 - LinkedIn - [Halil ALGUL](https://www.linkedin.com/in/halilagul/)
 - Frontend Mentor - [@halibal](https://www.frontendmentor.io/profile/halibal)
+- Freecodecamp - [@halibal](https://www.freecodecamp.org/halibal)
